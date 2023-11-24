@@ -1,0 +1,4 @@
+777,medecin,nathalie,4504698844,5,orales,98_dame_ouest,grober,francoise;jenny;will
+88,optometricienne,natacha,450667778,24,paralysie,13_beauchemin,grober,heliane;pietro
+34,infirmiere,kath,4504690043,24,musculaire,19_vimy,grober,sophie;johanne
+28,medecin,holga,4504698802,24,pediatrie,40_vernais,grober,hélène
